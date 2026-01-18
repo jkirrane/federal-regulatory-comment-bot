@@ -14,16 +14,18 @@ A Bluesky bot and website that tracks federal regulatory comment periods, transl
 
 ## 🌐 Website
 
-**Browse open comment periods:** [Your GitHub Pages URL here]
+**Browse open comment periods:** [https://jkirrane.github.io/federal-regulatory-comment-bot/](https://jkirrane.github.io/federal-regulatory-comment-bot/)
 
 - Filter by topic or agency
 - Sort by deadline
-- RSS feeds available
-- JSON API for developers
+- RSS feed: [feed.xml](https://jkirrane.github.io/federal-regulatory-comment-bot/feed.xml)
+- JSON API: [data.json](https://jkirrane.github.io/federal-regulatory-comment-bot/data.json)
 
 ## 🤖 Follow the Bot
 
-[@fedcomments.bsky.social](https://bsky.app/profile/fedcomments.bsky.social) *(update with your handle)*
+*Coming soon - Bluesky integration requires Python 3.10+*
+
+Bot will post at [@fedcomments.bsky.social](https://bsky.app/profile/fedcomments.bsky.social) when ready
 
 ## 💡 Why This Matters
 
