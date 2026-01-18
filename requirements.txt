@@ -1,0 +1,21 @@
+# Core dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+python-dotenv>=1.0.0
+
+# Bluesky API (requires Python 3.10+)
+# atproto>=0.0.50
+
+# RSS feed generation
+feedgen>=1.0.0
+
+# Date/time handling
+python-dateutil>=2.8.0
+
+# Optional: For better string matching (if needed for categorization)
+# fuzzywuzzy>=0.18.0
+# python-Levenshtein>=0.21.0
+
+# Optional: For AI summaries (Phase 4+)
+# anthropic>=0.25.0
